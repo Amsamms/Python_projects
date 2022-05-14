@@ -1,5 +1,5 @@
 # Python_projects
-These are python project
+These are simple python project
 
 
 first one is to web scrapping ( example of www.waziffa.com)
